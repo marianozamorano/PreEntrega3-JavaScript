@@ -3,7 +3,7 @@ export const productos = [
         id: 1,
         nombre: "Hamburguesa",
         precio: 3500,
-        imagen: "../imagenes/hamburguesa.jpg",
+        imagen: "https://img.freepik.com/foto-gratis/hamburguesa-parrilla-tomate-cebolla-papas-fritas-generada-ia_188544-43039.jpg?w=1380&t=st=1699225604~exp=1699226204~hmac=8348992bbed352dadac0393dcde6fd685001dedf6374344c601ba34611d97f6b",
         categoria: "comida"
     },
     {
