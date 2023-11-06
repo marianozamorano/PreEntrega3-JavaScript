@@ -12,7 +12,7 @@ export const productos = [
         precio: 4900,
         imagen: "https://img.freepik.com/foto-gratis/primer-plano-deliciosa-hamburguesa-colombiana-casera-sobre-mesa_181624-32903.jpg?w=996&t=st=1699236563~exp=1699237163~hmac=51dba30dd9d986e677af2707a8cb9359b42a6a11b7082701dd9140b33998e3d6",
         categoria: "comida"
-    }
+    },
     {
         id: 3,
         nombre: "Pizza",
